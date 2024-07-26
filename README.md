@@ -1,4 +1,4 @@
-# cisco_packet_tracer
+# cisco_packet_tracer_project
 Design a network in Cisco Packet Tracer to connects ACCOUNTS and DELIVERY departments through the following:
 Each department should contain at least two PCs.
 Appropriate number of switches and routers should be used in the network.
